@@ -150,7 +150,7 @@ if(get_option('fit_anp_check') == 'value2' && is_single() && @$_GET['amp'] === '
           <?php if ( has_nav_menu( 'header_menu' ) ) : //メニューセットあり ?>
 	        <?php wp_nav_menu(array(
 		          'theme_location' => 'header_menu',
-				  'depth' => 1,
+				  'depth' => 2,
 			      'items_wrap' => '%3$s',
 			      'container' => false,
 	          )
