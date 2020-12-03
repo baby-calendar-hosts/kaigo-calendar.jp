@@ -4,14 +4,14 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f71b57eaabcec140b1c2f66d33146cf5",
+    "content-hash": "0950b6689f4e63bbfe6702cd29bf268e",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
-            "version": "5.9.1",
+            "version": "5.9.3",
             "dist": {
                 "type": "zip",
-                "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%ACF_KEY}&t=5.9.1"
+                "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%ACF_KEY}&t=5.9.3"
             },
             "require": {
                 "ffraenz/private-composer-installer": "^2.0"
@@ -256,19 +256,19 @@
         },
         {
             "name": "koodimonni-plugin-language/all-in-one-seo-pack-ja",
-            "version": "3.7.0",
+            "version": "3.7.1",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/all-in-one-seo-pack/3.7.0/ja.zip"
+                "url": "https://downloads.wordpress.org/translation/plugin/all-in-one-seo-pack/3.7.1/ja.zip"
             },
             "type": "wordpress-language"
         },
         {
             "name": "koodimonni-plugin-language/breadcrumb-navxt-ja",
-            "version": "6.5.0",
+            "version": "6.6.0",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/breadcrumb-navxt/6.5.0/ja.zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/breadcrumb-navxt/6.6.0/ja.zip",
                 "reference": "master"
             },
             "type": "wordpress-language"
@@ -315,20 +315,20 @@
         },
         {
             "name": "koodimonni-plugin-language/mw-wp-form-ja",
-            "version": "4.2.0",
+            "version": "4.4.0",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/mw-wp-form/4.2.0/ja.zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/mw-wp-form/4.4.0/ja.zip",
                 "reference": "master"
             },
             "type": "wordpress-language"
         },
         {
             "name": "koodimonni-plugin-language/my-calendar-ja",
-            "version": "3.2.8",
+            "version": "3.2.10",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/my-calendar/3.2.8/ja.zip"
+                "url": "https://downloads.wordpress.org/translation/plugin/my-calendar/3.2.10/ja.zip"
             },
             "type": "wordpress-language"
         },
@@ -362,10 +362,10 @@
         },
         {
             "name": "koodimonni-plugin-language/wp-fastest-cache-ja",
-            "version": "0.9.1.0",
+            "version": "0.9.1.2",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/0.9.1.0/ja.zip"
+                "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/0.9.1.2/ja.zip"
             },
             "type": "wordpress-language"
         },
