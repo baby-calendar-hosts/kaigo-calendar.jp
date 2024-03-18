@@ -225,6 +225,8 @@
     "wpackagist-plugin/loginizer": "*",
     "wpackagist-plugin/mw-wp-form": "*",
     "wpackagist-plugin/my-calendar": "*",
+    "wpackagist-plugin/public-post-preview": "*",
+    "wpackagist-plugin/public-post-preview-configurator": "*",
     "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
     "wpackagist-plugin/related": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
